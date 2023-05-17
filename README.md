@@ -1,2 +1,2 @@
-# crypto_plataform
- Crypto plataform landingpage
+# crypto_platform
+ Crypto platform Landing Page
