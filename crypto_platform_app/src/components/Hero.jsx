@@ -18,7 +18,7 @@ const Hero = () => {
                 </div>
 
                 <h1 className="font-poppins font-semibold ss:text-[68px] text-[52px] text-white ss:leading-[100.8px] leading-[75px] w-full">
-                    de Investimentos em Crypto.
+                    de Investimentos em Criptomoedas.
                 </h1>
                 <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
                     Para apoiar seu momento de vida e a construção da sua história. Soluções completas para você e sua empresa..

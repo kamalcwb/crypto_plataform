@@ -25,7 +25,7 @@ const Business = () => (
                 Mais vida, <br className="sm:block hidden" /> no seu dinheiro.
             </h2>
             <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-                A Crypto é uma plataforma de investimentos com o compromisso de guiar o seu dinheiro na mesma direção dos seus sonhos..
+                A Crypto Invest é uma plataforma de investimentos com a missão de guiar o seu dinheiro na mesma direção dos seus sonhos..
             </p>
 
             <Button styles={`mt-10`} />

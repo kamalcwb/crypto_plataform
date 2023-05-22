@@ -23,9 +23,9 @@ export const features = [
     {
         id: "feature-1",
         icon: star,
-        title: "Os melhores assessores do mercado",
+        title: "A melhor assessoria do mercado",
         content:
-            "Com a Assessoria Crypto, ajudamos as pessoas nas decisões relacionadas aos seus investimentos, sempre de acordo com seus objetivos e perfil.",
+            "Com a Assessoria Crypto Invest, ajudamos as pessoas nas decisões relacionadas aos seus investimentos, sempre de acordo com seus objetivos e perfil.",
     },
     {
         id: "feature-2",
@@ -47,7 +47,7 @@ export const feedback = [
     {
         id: "feedback-1",
         content:
-            "Antes utilizavamos apenas formas convencionais para investimentos, com a Crypto, conseguimos aumentar nosso patrimonio em cerca de 23%.",
+            "Antes utilizavamos apenas formas convencionais para investimentos, com a Crypto Invest, conseguimos aumentar nosso patrimonio em cerca de 23%.",
         name: "Ana Paula Bittencourt",
         title: "CEO Altis Sulamericana",
         img: people01,
@@ -55,7 +55,7 @@ export const feedback = [
     {
         id: "feedback-2",
         content:
-            "Com a ajuda dos assessores consegui uma visão clara do mercado crypto, e assim, planejando meu futuro.",
+            "Com a ajuda dos assessores consegui uma visão clara do mercado cripto, e assim, planejando meu futuro.",
         name: "João Guilheme Medeiros",
         title: "Desenvolvedor Senior",
         img: people02,
@@ -63,7 +63,7 @@ export const feedback = [
     {
         id: "feedback-3",
         content:
-            "Com a crypto aumentei minhas reservas em cerca de 25%, com a segurança de sempre fazer o melhor investimento.",
+            "Com a Crypto Invest aumentei minhas reservas em cerca de 25%, com a segurança de sempre fazer o melhor investimento.",
         name: "Carlos Cardoso Figueira",
         title: "Empresário",
         img: people03,
@@ -73,7 +73,7 @@ export const feedback = [
 export const stats = [
     {
         id: "stats-1",
-        title: "Pessoas sendo gerenciadas por nós neste momento",
+        title: "Clientes até o momento",
         value: "5800+",
     },
     {
@@ -83,7 +83,7 @@ export const stats = [
     },
     {
         id: "stats-3",
-        title: "Investimetos sob nossa gestão",
+        title: "Investimentos",
         value: "R$230M+",
     },
 ];
@@ -94,23 +94,23 @@ export const footerLinks = [
         links: [
             {
                 name: "Conteúdo",
-                link: "https://www.crypto.com/content/",
+                link: "https://www.cryptoinvest.com/content/",
             },
             {
                 name: "Como funciona",
-                link: "https://www.crypto.com/how-it-works/",
+                link: "https://www.cryptoinsvest.com/how-it-works/",
             },
             {
                 name: "Criar",
-                link: "https://www.crypto.com/create/",
+                link: "https://www.cryptoinvest.com/create/",
             },
             {
                 name: "Explorar",
-                link: "https://www.crypto.com/explore/",
+                link: "https://www.cryptoinvest.com/explore/",
             },
             {
                 name: "Termos & Serviços",
-                link: "https://www.crypto.com/terms-and-services/",
+                link: "https://www.cryptoinvest.com/terms-and-services/",
             },
         ],
     },
@@ -119,23 +119,23 @@ export const footerLinks = [
         links: [
             {
                 name: "Central de Ajuda",
-                link: "https://www.crypto.com/help-center/",
+                link: "https://www.cryptoinvest.com/help-center/",
             },
             {
                 name: "Parceiros",
-                link: "https://www.crypto.com/partners/",
+                link: "https://www.cryptoinvest.com/partners/",
             },
             {
                 name: "Sugestoes",
-                link: "https://www.crypto.com/suggestions/",
+                link: "https://www.cryptoinvest.com/suggestions/",
             },
             {
                 name: "Blog",
-                link: "https://www.crypto.com/blog/",
+                link: "https://www.cryptoinvest.com/blog/",
             },
             {
                 name: "Novidades",
-                link: "https://www.crypto.com/newsletters/",
+                link: "https://www.cryptoinvest.com/newsletters/",
             },
         ],
     },
@@ -144,11 +144,11 @@ export const footerLinks = [
         links: [
             {
                 name: "Nossos parceiros",
-                link: "https://www.crypto.com/our-partner/",
+                link: "https://www.cryptoinvest.com/our-partner/",
             },
             {
                 name: "Seja nosso parceiro",
-                link: "https://www.crypto.com/become-a-partner/",
+                link: "https://www.cryptoinvest.com/become-a-partner/",
             },
         ],
     },
