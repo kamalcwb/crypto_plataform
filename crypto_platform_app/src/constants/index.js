@@ -178,10 +178,10 @@ export const socialMedia = [
 ];
 
 export const clients = [
-    {
-        id: "client-1",
-        logo: airbnb,
-    },
+    // {
+    //     id: "client-1",
+    //     logo: airbnb,
+    // },
     {
         id: "client-2",
         logo: binance,
